@@ -1,6 +1,6 @@
 ## Hello, I'm Dhia 👋       
 
-- 🌱 I’m currently learning Python and Robot framework  <img align="center" alt="Dhia-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  <img align="center" alt="Dhia-RF" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/robot-framework.svg">
+- 🌱 I’m currently learning Python and Robot framework  <img align="center" alt="Dhia-Python" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  <img align="center" alt="Dhia-RF" height="20" width="30" src="https://cdn.worldvectorlogo.com/logos/robot-framework.svg">
 <div style="display: inline_block"><br>
   <img align="center" alt="Dhia-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Dhia-RF" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/robot-framework.svg">
