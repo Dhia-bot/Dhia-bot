@@ -15,4 +15,4 @@
   
 </div>
 
-![Snake animation](https://github.com/andressampontes/Dhia-bot/blob/main/github-user-contribution.svg)
+![Snake animation](https://github.com/Dhia-bot/Dhia-bot/blob/main/github-user-contribution.svg)
