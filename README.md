@@ -1,4 +1,4 @@
-## Hello, I'm Dhia 👋       <a href="https://www.instagram.com/abhisheknaiidu/">
+##<a href="https://www.instagram.com/abhisheknaiidu/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://discord.gg/XTW52Kt">
@@ -9,7 +9,7 @@
 </a>
 <a href="https://www.linkedin.com/in/abhisheknaiidu/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+</a> Hello, I'm Dhia 👋       
 
 - 🌱 I’m currently learning Python and Robot framework
 
